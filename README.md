@@ -3,7 +3,10 @@
 ### Project Overview
 This comprehensive report provides an analysis of death data in Zurich from 1998 to 2024, across various dimensions, including time, gender, age, district, and season. This report aims to uncover significant trends and patterns that can inform public health strategies and policy decisions.
 
-<img width="710" alt="image" src="https://github.com/Simao84/Tableau-Project/assets/165850975/8e12aa23-4198-4a5d-bbb6-9f312bc2816c">
+<img width="667" alt="image" src="https://github.com/Simao84/Tableau-Project/assets/165850975/a51800f7-478f-4fe8-9b3f-902046de4951">
+
+<img width="649" alt="image" src="https://github.com/Simao84/Tableau-Project/assets/165850975/fd81a6aa-78e4-4d00-a024-2784f1df2a22">
+
 
 
 
