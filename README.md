@@ -20,11 +20,10 @@ The analysis addresses key questions such as:
 5. Are there seasonal variations in death rates?
      
 ### Key Findings
-1.    How have death rates changed over the past two decades? 
-Death rates have generally declined over the past two decades.
-2. There are discernible differences in mortality between genders, though both show a decline.
+1. Death rates have generally declined over the past two decades.
+2. There are discernible differences in mortality between genders. Female have the higest mortality rate.
 3. The age groups most affected by high death rates are 80-99, followed by 60-79.
-4. Death rates vary significantly across different districts.
+4. Death rates vary significantly across different districts. Districts 7, 9 and 11 have the highest mortality rate.
 5. There are seasonal variations with higher death rates in winter.
    
 ### Recommendations
