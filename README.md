@@ -1,11 +1,23 @@
 # Analysis of Mortality Trends in Zurich
 
+## Table of contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Exploratory Data Ananlysis](#exploratory-data-ananlysis)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 This comprehensive report provides an analysis of death data in Zurich from 1998 to 2024, across various dimensions, including time, gender, age, district, and season. This report aims to uncover significant trends and patterns that can inform public health strategies and policy decisions.
 
 <img width="667" alt="image" src="https://github.com/Simao84/Tableau-Project/assets/165850975/a51800f7-478f-4fe8-9b3f-902046de4951">
 
 <img width="649" alt="image" src="https://github.com/Simao84/Tableau-Project/assets/165850975/fd81a6aa-78e4-4d00-a024-2784f1df2a22">
+
+### Data Source
+
+### Tools
 
 
 
