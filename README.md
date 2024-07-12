@@ -12,11 +12,8 @@ This comprehensive report provides an analysis of death data in Zurich from 1998
 
 <img width="900" alt="Dashboard" src="https://github.com/user-attachments/assets/61fa68f5-c2c1-49a8-a1ec-e98017c26a42">
 
-
-
-
 ### Data Source
-< https://data.stadt-zuerich.ch/dataset/bev_monat_todesfaelle_quartier_geschl_ag_herkunft_od4210 >
+https://data.stadt-zuerich.ch/dataset/bev_monat_todesfaelle_quartier_geschl_ag_herkunft_od4210
 
 ### Exploratory Data Ananlysis
 The analysis addresses key questions such as:
